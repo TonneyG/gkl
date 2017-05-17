@@ -5,4 +5,5 @@ Git tracks changes.
 My stupid boss still prefers SVN.
 Creating a new branch is quick and simple.
 Manage branch add merge no fast forward.
+I want to solve a bug.
 
